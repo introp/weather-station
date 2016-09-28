@@ -27,3 +27,7 @@
 *.exe
 *.out
 *.app
+
+# LPCXpresso intermediate files
+*.ld
+*.map
